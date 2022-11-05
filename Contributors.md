@@ -4750,4 +4750,4 @@ first contributions - hanyang univ.
 - [lukastheviciouss](https://github.com/lukasthevicious)
 - [Angusson](https://github.com/Angusson)
 - [Zsolt Kacsandi](https://github.com/zsoltkacsandi)
-- [ByWill] (contributing to first contributions)
+- [By_Will] (contributing to first contributions)
